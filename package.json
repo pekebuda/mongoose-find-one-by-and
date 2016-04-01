@@ -1,0 +1,28 @@
+{
+  "name": "mongoose-find-one-by-and",
+  "version": "0.1.0",
+  "description": "Create statics methods out of instance methods",
+  "main": "index.js",
+  "author": "Fernando Diaz <peke_buda@hotmail.com>",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "mongoose",
+    "plugin",
+    "method",
+    "static"
+  ],
+  "dependencies": {
+       "lodash": "4.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pekebuda/mongoose-find-one-by-and"
+  },
+  "bugs": {
+    "url": "https://github.com/pekebuda/mongoose-find-one-by-and/issues"
+  }
+}
